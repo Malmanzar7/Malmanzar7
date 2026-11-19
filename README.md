@@ -1,4 +1,4 @@
-# Hi, I'm Manny 👋
+# Yo, I'm Manny! 😁
 
 Binghamton University student working toward a career in cybersecurity. I'm learning by playing around in my home-lab, playing wargames, and building security tools in whatever language fits the job.
 
@@ -14,7 +14,7 @@ Binghamton University student working toward a career in cybersecurity. I'm lear
 - **Languages:** Python, Java, C, Assembly, HTML
 - **Security tools:** nmap, netcat, smbclient, Kali Linux
 - **Systems:** Linux command line, Hyper-V, Git and GitHub
-- **Spoken:** English and Spanish
+- **Spoken Languages:** English and Spanish
 
 ## Currently Working On
 
